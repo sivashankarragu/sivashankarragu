@@ -31,6 +31,8 @@ No copilots, no chatbots: just documentation, Stack Overflow, breakpoints, and a
 I learned by **reading other people's code**, **stepping through bugs line by line**, and **fighting with errors until they made sense**.
 Those years taught me how software really works under the surface, and that is exactly what I bring to building with AI today.
 
+😅 *Back then I was sure my [Stack Overflow profile](https://stackoverflow.com/users/6290515/sivashankar) would be my retirement plan. Then AI showed up and started answering everyone's questions for free.*
+
 ```
 2015 ──▶ Started out: C#, .NET, SQL. Learned by debugging, breaking things and fixing them
    │
