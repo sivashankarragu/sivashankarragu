@@ -23,6 +23,31 @@
 
 ---
 
+## 🧗 My Journey: From Debugging by Hand to Building AI Agents
+
+I started writing code professionally in **2015**, long before AI was part of a developer's day.
+No copilots, no chatbots: just documentation, Stack Overflow, breakpoints, and a lot of patience.
+
+I learned by **reading other people's code**, **stepping through bugs line by line**, and **fighting with errors until they made sense**.
+Those years taught me how software really works under the surface, and that is exactly what I bring to building with AI today.
+
+```
+2015 ──▶ Started out: C#, .NET, SQL. Learned by debugging, breaking things and fixing them
+   │
+   ├──▶ Grew into full-stack: REST APIs, front-end frameworks, databases, real production issues
+   │
+   ├──▶ Learned to design, not just code: Clean Architecture, testing, maintainable systems
+   │
+   ├──▶ AI arrived: adopted AI tools early, and used my fundamentals to judge what they produce
+   │
+   └──▶ Today: building AI web agents that browse, verify and act on the live web
+```
+
+> 💡 **What hasn't changed since 2015:** understand the problem, read the code, trust evidence over guesses.
+> AI made me faster. The years of debugging taught me where to look when it gets things wrong.
+
+---
+
 ## ✨ At a Glance
 
 | Area | Skills Demonstrated |
